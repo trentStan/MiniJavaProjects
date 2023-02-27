@@ -1,0 +1,3 @@
+Manufacturer: Mercedes
+Model Number: C200
+Retail Price: 2000000.0

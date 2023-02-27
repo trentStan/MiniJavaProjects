@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<?xml-stylesheet href="nov11.css"?>
+
+<library>
+    <book>
+        <title>Animal farm </title>
+        <author>George Orwell</author>
+        <genre>Satire</genre>
+        <year>1945</year>
+        <publisher>Chad</publisher>
+        
+    </book>
+    <book>
+        <title>Rainy days </title>
+        <author>Jodi Picks</author>
+        <genre>Romantic</genre>
+        <year>1969</year>
+        <publisher>Penguin</publisher>
+        
+    </book>
+</library>

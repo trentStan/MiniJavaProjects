@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<!DOCTYPE menu SYSTEM "menu.dtd">
+<menu>
+
+    <name>Pizza</name>
+    <price>50</price>
+    <description>macon and cheese</description>
+    <portionsize>medium-sized pizzas</portionsize>
+    
+    
+</menu>
+<menu>
+    <name>Gatsby</name>
+    <price>55</price>
+    <description>chips, polony and steak</description>
+    <portionsize>1 foot</portionsize>
+</menu>

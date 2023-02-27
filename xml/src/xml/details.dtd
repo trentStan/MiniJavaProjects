@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!ELEMENT supplier (name,address,product)>
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name >
+<!ELEMENT address (street,city,zip)>
+<!ELEMENT street (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT zip (#PCDATA)>
+<!ELEMENT product (type,price,quantity)>
+<!ELEMENT type (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>

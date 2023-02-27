@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23 Nov 2021, 8:37:29 AM
+    Author     : user-pc
+*/
+
+
+
+name{
+    font-size: 24px;
+    color: blue;
+    display: block;
+}
+
+street{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12px;
+    color: red;
+    display: block
+}
+
+city{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: black;
+    display: block;
+}
+state{
+    size: 16px;
+    color: orange;
+    display: block;
+    
+}
+zip{
+    size: 6px;
+    color: green;
+    display: block;
+}

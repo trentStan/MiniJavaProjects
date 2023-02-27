@@ -1,0 +1,3 @@
+Manufacturer: BMW
+Model Number: M3
+Retail Price: 1000000.0

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<supplier>
+    <name>Test Company</name>
+    <address></address>
+    <street>Third Avenue</street>
+    <city>Cape Town</city>
+    <zip>7080</Zip>
+    <product></product>
+    <type>Laptop</type>
+    <price>R5500</price>
+    <quantity>7 items</quantity>
+</supplier>
